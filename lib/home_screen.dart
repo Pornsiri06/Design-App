@@ -15,7 +15,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
     // style
     var cardTextStyle = TextStyle(
-    fontFamily: "Montserrat Regular", 
+    fontFamily: "Kanit Medium", 
     fontSize: 14, 
     color: Color.fromRGBO(63, 63, 63, 1));
 
